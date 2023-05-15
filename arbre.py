@@ -56,11 +56,11 @@ root_question = Question("Bonjour ! Avez-vous besoin d'aide en Frontend?",
                                                     yes=Question("https://www.youtube.com/watch?v=qsbkZ7gIKnc"),
                                                    no=Question("https://www.youtube.com/watch?v=iSWjmVcfQGg")),
                                       no=Question("Tu veux pousser tes compétance en frontend?",
-                                                  yes=Question("https://www.youtube.com/watch?v=oCINeytlyRA"),
+                                                  yes=Question("TKT c est pas long https://www.youtube.com/watch?v=oCINeytlyRA"),
                                                   no=Question("bah bouge de la poto"))),
                          no="Très bien, n'hésitez pas à revenir si vous avez besoin d'aide en frontend !")
 
-# Hashtable pour stocker l'historique des conversations de chaque utilisateur
+
 conversation_history = {}
 #async def test(ctx): : Définit une commande test qui 
 # commence la conversation avec l'utilisateur en posant 
